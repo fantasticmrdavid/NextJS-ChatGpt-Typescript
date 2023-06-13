@@ -31,7 +31,7 @@ Environment variables are one of the ways we keep our product safe. If you want 
 - add your Environment variables
 
 ```sh
-OPEN_AI_TOKEN= # Your OPEN AI Token
+OPEN_AI_KEY= # Your OPEN AI Token
 ```
 
 To Generate OPENAI Token : - [OpenAI Token](https://platform.openai.com/account/api-keys)
@@ -42,7 +42,7 @@ To start the App Locally you can start the server First then start client-side o
 
 > To run Server, In your terminal Type:
 > `npm run dev`
-> then you should be able to go to (http://localhost:8080/)
+> then you should be able to go to (http://localhost:3000/)
 
 Now you can view the app live in the Browser!
 
